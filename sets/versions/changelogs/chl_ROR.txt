@@ -1,4 +1,72 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+UES Safe Travels removed.
+Isolated removed.
+Lunar Corruption removed.
+Brotherhood's End removed.
+
+Railgunner
+
+Acrid
+
+REX
+
+MUL-T
+
+CHEF
+
+False Son
+
+Artificer
+
+Operator
+
+Drifter
+
+Kur-skan, the Heretic
+
+Mithrix, King of Nothing
+
+Providence, the Bulwark
+
+Providence, the Bulwark
+
+Seeker
+
+Sol Ring
+
+Mithrix, King of Nothing
+
+Prismatic Vista
+
+Forest
+
+Forest
+
+Island
+
+Island
+
+Mountain
+
+Mountain
+
+Plains
+
+Plains
+
+Prismatic Vista
+
+Swamp
+
+Swamp
+
+Wastes
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
