@@ -1,0 +1,491 @@
+﻿[
+    {
+        "card_name": "Commando",
+        "number": 3,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "0"
+    },
+    {
+        "card_name": "Engineer",
+        "number": 5,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "2"
+    },
+    {
+        "card_name": "Bandit",
+        "number": 10,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "3"
+    },
+    {
+        "card_name": "Brotherhood's End",
+        "number": 26,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "18"
+    },
+    {
+        "card_name": "Acrid",
+        "number": 31,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "10"
+    },
+    {
+        "card_name": "Seeker",
+        "number": 4,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "25"
+    },
+    {
+        "card_name": "Isolated",
+        "number": 6,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "12"
+    },
+    {
+        "card_name": "CHEF",
+        "number": 11,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "14"
+    },
+    {
+        "card_name": "Drifter",
+        "number": 27,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "20"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lunar Corruption",
+        "number": 7,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "17"
+    },
+    {
+        "card_name": "Forest",
+        "number": 12,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "36"
+    },
+    {
+        "card_name": "Huntress",
+        "number": 28,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mercenary",
+        "number": 8,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "4"
+    },
+    {
+        "card_name": "Island",
+        "number": 14,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "38"
+    },
+    {
+        "card_name": "Loader",
+        "number": 29,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Operator",
+        "number": 9,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "19"
+    },
+    {
+        "card_name": "Kur-skan, the Heretic",
+        "number": 16,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "21"
+    },
+    {
+        "card_name": "Railgunner",
+        "number": 30,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 17,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "40"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Plains",
+        "number": 20,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "42"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Prismatic Vista",
+        "number": 21,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "43"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 23,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "45"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Void Fiend",
+        "number": 24,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 25,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "46"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Providence, the Bulwark",
+        "number": 34,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "24"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Artificer",
+        "number": 32,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "16"
+    },
+    {
+        "card_name": "REX",
+        "number": 35,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "False Son",
+        "number": 33,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "15"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "MUL-T",
+        "number": 36,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "13"
+    },
+    {
+        "card_name": "Sol Ring",
+        "number": 37,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "26"
+    },
+    {
+        "card_name": "UES Safe Travels",
+        "number": 38,
+        "shape": "leveler",
+        "set": "ROR",
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 44,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "28"
+    },
+    {
+        "card_name": "Island",
+        "number": 40,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "29"
+    },
+    {
+        "card_name": "Forest",
+        "number": 39,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "30"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 45,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "32"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 41,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "33"
+    },
+    {
+        "card_name": "Plains",
+        "number": 42,
+        "shape": "normal",
+        "set": "ROR",
+        "position": "34"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

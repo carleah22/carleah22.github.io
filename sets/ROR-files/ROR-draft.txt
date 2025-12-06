@@ -1,0 +1,596 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Commando",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/0.png"
+			}
+		},
+		{
+			"name": "Loader",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Rigger",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/1.png"
+			}
+		},
+		{
+			"name": "Engineer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/2.png"
+			}
+		},
+		{
+			"name": "Bandit",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/3.png"
+			}
+		},
+		{
+			"name": "Mercenary",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Ninja Mercenary",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/4.png"
+			}
+		},
+		{
+			"name": "Void Fiend",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/5.png"
+			}
+		},
+		{
+			"name": "Huntress",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/6.png"
+			}
+		},
+		{
+			"name": "Captain",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/7.png"
+			}
+		},
+		{
+			"name": "UES Safe Travels",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/8.png"
+			}
+		},
+		{
+			"name": "Railgunner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/9.png"
+			}
+		},
+		{
+			"name": "Acrid",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Mutant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/10.png"
+			}
+		},
+		{
+			"name": "REX",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Artifact Creature — Plant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/11.png"
+			}
+		},
+		{
+			"name": "Isolated",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/12.png"
+			}
+		},
+		{
+			"name": "MUL-T",
+			"rarity": "common",
+			"mana_cost": "{X}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/13.png"
+			}
+		},
+		{
+			"name": "CHEF",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/14.png"
+			}
+		},
+		{
+			"name": "False Son",
+			"rarity": "common",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Golem",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/15.png"
+			}
+		},
+		{
+			"name": "Artificer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/16.png"
+			}
+		},
+		{
+			"name": "Lunar Corruption",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/17.png"
+			}
+		},
+		{
+			"name": "Brotherhood's End",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/18.png"
+			}
+		},
+		{
+			"name": "Operator",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/19.png"
+			}
+		},
+		{
+			"name": "Drifter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Monger",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/20.png"
+			}
+		},
+		{
+			"name": "Kur-skan, the Heretic",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Bird Warlock",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/21.png"
+			}
+		},
+		{
+			"name": "Mithrix, King of Nothing",
+			"rarity": "masterpiece",
+			"mana_cost": "{5}{C}{C}",
+			"type": "Legendary Creature — Cyclops Artificer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/22.png"
+			}
+		},
+		{
+			"name": "Providence, the Bulwark",
+			"rarity": "masterpiece",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Legendary Creature — Cyclops Artificer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/23.png"
+			}
+		},
+		{
+			"name": "Providence, the Bulwark",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Legendary Creature — Cyclops Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/24.png"
+			}
+		},
+		{
+			"name": "Seeker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/25.png"
+			}
+		},
+		{
+			"name": "Sol Ring",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/26.png"
+			}
+		},
+		{
+			"name": "Mithrix, King of Nothing",
+			"rarity": "common",
+			"mana_cost": "{5}{C}{C}",
+			"type": "Legendary Creature — Cyclops Artificer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/27.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/28.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/29.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/30.png"
+			}
+		},
+		{
+			"name": "Prismatic Vista",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/31.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/32.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/33.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/34.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/35.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/36.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/37.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/38.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/39.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/40.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/41.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/42.png"
+			}
+		},
+		{
+			"name": "Prismatic Vista",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/43.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/44.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/45.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/ROR-files/img/46.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(7)]
+	8 Commando
+	8 Loader
+	8 Engineer
+	8 Bandit
+	8 Mercenary
+	8 Void Fiend
+	8 Huntress
+	8 Captain
+	8 UES Safe Travels
+	8 Railgunner
+	8 Acrid
+	8 REX
+	8 Isolated
+	8 MUL-T
+	8 CHEF
+	8 False Son
+	8 Artificer
+	8 Lunar Corruption
+	8 Brotherhood's End
+	8 Operator
+	8 Drifter
+	8 Kur-skan, the Heretic
+	8 Providence, the Bulwark
+	8 Seeker
+	8 Sol Ring
+	8 Mithrix, King of Nothing
+	8 Prismatic Vista
+	8 Forest
+	8 Forest
+	8 Island
+	8 Island
+	8 Mountain
+	8 Mountain
+	8 Plains
+	8 Plains
+	8 Prismatic Vista
+	8 Swamp
+	8 Swamp
+	8 Wastes
+[foil(1)]
+	12 Commando
+	12 Loader
+	12 Engineer
+	12 Bandit
+	12 Mercenary
+	12 Void Fiend
+	12 Huntress
+	12 Captain
+	12 UES Safe Travels
+	12 Railgunner
+	12 Acrid
+	12 REX
+	12 Isolated
+	12 MUL-T
+	12 CHEF
+	12 False Son
+	12 Artificer
+	12 Lunar Corruption
+	12 Brotherhood's End
+	12 Operator
+	12 Drifter
+	12 Kur-skan, the Heretic
+	12 Providence, the Bulwark
+	12 Seeker
+	12 Sol Ring
+	12 Mithrix, King of Nothing
+	12 Prismatic Vista
+	12 Forest
+	12 Forest
+	12 Island
+	12 Island
+	12 Mountain
+	12 Mountain
+	12 Plains
+	12 Plains
+	12 Prismatic Vista
+	12 Swamp
+	12 Swamp
+	12 Wastes
+[wildcard(1)]
+	6 Commando
+	6 Loader
+	6 Engineer
+	6 Bandit
+	6 Mercenary
+	6 Void Fiend
+	6 Huntress
+	6 Captain
+	6 UES Safe Travels
+	6 Railgunner
+	6 Acrid
+	6 REX
+	6 Isolated
+	6 MUL-T
+	6 CHEF
+	6 False Son
+	6 Artificer
+	6 Lunar Corruption
+	6 Brotherhood's End
+	6 Operator
+	6 Drifter
+	6 Kur-skan, the Heretic
+	6 Providence, the Bulwark
+	6 Seeker
+	6 Sol Ring
+	6 Mithrix, King of Nothing
+	6 Prismatic Vista
+	6 Forest
+	6 Forest
+	6 Island
+	6 Island
+	6 Mountain
+	6 Mountain
+	6 Plains
+	6 Plains
+	6 Prismatic Vista
+	6 Swamp
+	6 Swamp
+	6 Wastes
