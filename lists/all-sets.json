@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "NUT",
+            "set_name": "Warp Zone: Nuclear Throne",
+            "formats": "Carlegacy"
+        },
+        {
             "set_code": "ROR",
             "set_name": "Warp Zone: Risk of Rain 2",
             "formats": "Carlegacy"

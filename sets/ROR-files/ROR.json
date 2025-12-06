@@ -586,7 +586,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "28",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Island",
@@ -606,7 +606,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "29",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Forest",
@@ -626,7 +626,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "30",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Prismatic Vista",
@@ -646,7 +646,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "31",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Wastes",
@@ -666,7 +666,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "32",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Mountain",
@@ -686,7 +686,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "33",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Plains",
@@ -706,7 +706,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "34",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Forest",
@@ -726,7 +726,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "35",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Forest",
@@ -746,7 +746,7 @@
             "artist": "Moulin (steam workshop)",
             "alias": "",
             "position": "36",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Island",
@@ -766,7 +766,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "37",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Island",
@@ -786,7 +786,7 @@
             "artist": "Moulin (steam workshop)",
             "alias": "",
             "position": "38",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Mountain",
@@ -806,7 +806,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "39",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Mountain",
@@ -826,7 +826,7 @@
             "artist": "Moulin (steam workshop)",
             "alias": "",
             "position": "40",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Plains",
@@ -846,7 +846,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "41",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Plains",
@@ -866,7 +866,7 @@
             "artist": "Moulin (steam workshop)",
             "alias": "",
             "position": "42",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Prismatic Vista",
@@ -886,7 +886,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "43",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Swamp",
@@ -906,7 +906,7 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "44",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Swamp",
@@ -926,7 +926,7 @@
             "artist": "Moulin (steam workshop",
             "alias": "",
             "position": "45",
-            "notes": ""
+            "notes": "!last"
         },
         {
             "card_name": "Wastes",
@@ -946,8 +946,8 @@
             "artist": "Demigiant",
             "alias": "",
             "position": "46",
-            "notes": ""
+            "notes": "!last"
         }
     ],
-    "version": 1
+    "version": 2
 }

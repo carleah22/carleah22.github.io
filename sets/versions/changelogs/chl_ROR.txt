@@ -1,4 +1,36 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Prismatic Vista
+
+Forest
+
+Forest
+
+Island
+
+Island
+
+Mountain
+
+Mountain
+
+Plains
+
+Plains
+
+Prismatic Vista
+
+Swamp
+
+Swamp
+
+Wastes
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
