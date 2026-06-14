@@ -1,0 +1,2332 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CARL</name>
+			<longname>Crossmod Cube</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-14</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Agott</name>
+			<text>The first noncreature spell you cast on each of your turns costs {B} (or {1}) less and 1 life more to cast.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/0.png" num="43">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coco</name>
+			<text>Prowess
+When Coco&apos;s power is 3 or greater, investigate. She becomes a Wizard and gains lifelink. This ability triggers only once. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/1.png" num="11">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Qifrey</name>
+			<text>Flash
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Other creatures you control have prowess.
+When Qifrey enters, you may search your library for a card with mana value 1, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/2.png" num="103">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tetia</name>
+			<text>Haste
+Encourage ({T}: Another target creature you control gets +1/+1 until end of turn. Encourage only as a sorcery.)
+Whenever Tetia encourages a creature, that creature gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/3.png" num="78">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Portal Gun</name>
+			<text>Whenever equipped creature attacks, exile up to one target creature or artifact, then return it to the battlefield tapped under its owner&apos;s control. If it&apos;s a creature you control, it enters attacking and gains flying until end of turn.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/4.png" num="114">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gru, Despicable</name>
+			<text>Whenever you cast a spell, create X 1/1 black Minion creature tokens with &quot;This creature can&apos;t block&quot;, where X is the number of black mana symbols in that spell&apos;s mana cost.
+Whenever a creature you control dies, Gru connives. Then if he has power 10 or greater, you may cast the discarded card by paying 1 life rather then its mana cost. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on Gru.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/5.png" num="49">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scientist Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minion CARL</name>
+			<text>This creature can&apos;t block</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/6.png" num="1">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Minion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Kyubey</name>
+			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When Kyubey enters, draw a card. If it was bargained, you may instead put a card you own from outside the game into your hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/7.png" num="4">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doctor Evil</name>
+			<text>Evil offspring {2}{B} (You may pay an additional {2}{B} as you cast this spell. If you do, when he enters, create a 1/1 token copy of him named Scott Evil.)
+One Million Dollars — When Doctor Evil enters, target opponent may discard a card, pay 3 life and have you create a Treasure token. If they don&apos;t, search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/8.png" num="46">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Doctor Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Madeline</name>
+			<text>Jump — During your turn, Madeline has flying.
+Double Jump — Whenever a Mountain you control enters, Madeline gains double strike until end of turn.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/9.png" num="72">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Golden Idol</name>
+			<text>As an additional cost to cast this spell, sacrifice a nontoken colorless permanent.
+{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/10.png" num="109">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Doctor Edgar Zomboss</name>
+			<text>Deathtouch
+If you would discard a card, you may instead sacrifice a nonland permanent.
+{T}: Draw a card, then discard a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/11.png" num="98">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Scientist Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knowing Skull</name>
+			<text>{T}, Pay 1 life: Add X mana of any one color, where X is the amount of life you&apos;ve lost this turn.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/12.png" num="111">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magellan</name>
+			<text>Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
+Other creatures you control have afflict 2. 
+Whenever one or more creatures you control deal combat damage to an opponent, you draw a card and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/13.png" num="56">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carrot</name>
+			<text>Trample
+Whenever you cast a spell with mana value greater then Carrot&apos;s power, put a number of +1/+1 counters on her equal to the difference.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/14.png" num="84">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rabbit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Saw Arlong</name>
+			<text>Menace
+When Arlong enters, for each non-Merfolk creature you don&apos;t control, that creature&apos;s controller sacrifices it unless they have you put a +1/+1 counter on Arlong and create a tapped Treasure token.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/15.png" num="42">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impel Down Breakout</name>
+			<text>This spell costs {1} less to cast for each attacking creature you control.
+Return target creature card from your graveyard to the battlefield. If it&apos;s your turn and it&apos;s the declare attackers step, that creature enters tapped and attacking.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/16.png" num="54">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twin Sunflower</name>
+			<text>Defender
+When this creature enters, put a +1/+1 counter on up to two target creatures.
+{T}, Remove a counter from a permanent you control: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/17.png" num="95">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Problem Sleuth</name>
+			<text>When Problem Sleuth enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+When you draw your third card in a turn, Problem Sleuth becomes a 4/4 Angel creature with flying and vigilance.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/18.png" num="17">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wanderer in a Strange Land</name>
+			<text>Warp {1}{W}{W} (You may cast this card from your hand for its warp cost. Exile this planeswalker at the beginning of the next end step, then you may cast it from exile on a later turn.)
+[+1]: Create a 2/2 white Samurai creature token with vigilance.
+[-2]: Put a +1/+1 counter on target creature. It gains double strike, vigilance, and indestructible until end of turn.
+[-2]: Exile another target nonland permanent until the Wanderer leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/19.png" num="21">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>K.C. Cooper, Undercover</name>
+			<text>Sneak {U}{U} (You may cast this spell for {U}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)
+When K.C. enters, investigate.
+If you would draw one or more cards while K.C. is attacking, instead draw that many cards plus one, then discard a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/20.png" num="30">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Spy</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baby 5, Living Weapon</name>
+			<text>Baby 5 has first strike while attacking.
+When Baby 5 enters, arm her X times. (Create X colorless Equipment artifact tokens with &quot;Equipped creature gets +1/+0&quot; and equip {2}, then attach them to her.)
+Whenever an artifact you control enters, Baby Five deals 1 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/21.png" num="62">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate Officer</type>
+				<maintype>Creature</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Second Summer of Love</name>
+			<text>Destroy all creatures.
+Augmented — If you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, your opponents untap only three permanents during their next untap step.
+Exile The Second Summer of Love.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/22.png" num="19">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chell</name>
+			<text>As long as Chell is equipped, she has haste.
+When Chell enters, target creature can&apos;t block this turn.
+Warp {R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/23.png" num="64">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mithrix, King of Nothing</name>
+			<text>When Mithrix enters, target opponent reveals their hand. You may exile a nonland permanent card from it. If you don&apos;t, exile up to one target nontoken nonland permanent card that player controls. Then create a token that&apos;s a copy of the exiled card.
+When Mithrix leaves the battlefield, return all cards exiled with him to their owner&apos;s hands.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/24.png" num="5">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cyclops Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dora the Explorer</name>
+			<text>Whenever Dora attacks, create a Map token. (It&apos;s an artifact token. It says &quot;I&apos;m the map, I&apos;m the map! Read my token to find out more!&quot;)
+Discard a card: Dora can&apos;t be blocked this turn.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/25.png" num="28">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Transistor</name>
+			<text>At the beginning of combat on your turn, choose one—
+• Exile target card from a graveyard. Equipped creature gets +1/+1 until end of turn for each card exiled with the Transistor. 
+• You may pay {3}. If you do, equipped creature becomes a copy of a permanent card exiled with the Transistor until end of turn. 
+Equip {1}</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/26.png" num="118">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bushidō</name>
+			<text>Put a +1/+1 counter on target creature.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/27.png" num="10">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Richeh // Stubbornness</name>
+			<text>Richeh enters prepared. (While she&apos;s prepared, you may cast a copy of her spell. Doing so unprepares her.)
+Richeh can&apos;t be blocked.
+
+---
+
+Counter target spell that targets you or a permanent you control.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/28.png" num="36">CARL</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard // Instant</type>
+				<maintype>Creature</maintype>
+				<manacost>U // U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diable Jambe</name>
+			<text>Diable Jambe deals 2 damage to any target. 
+Infusion — If you&apos;ve gained life this turn, it deals 4 damage instead.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/29.png" num="65">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Void Fiend</name>
+			<text>Deathtouch
+Exhaust — {13}{B}{B}: Put three +1/+1 counters on Void Fiend. Each opponent loses 3 life, sacrifices a nonland permanent, and discards a card. If your life total is less than your starting life total, this ability costs {X} less to activate, where X is the difference. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/30.png" num="59">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Ironclad</name>
+			<text>At the beginning of your upkeep, exile the top two cards of your library. Put one of them into your hand. The Ironclad deals damage to you equal to its mana value. 
+The Ironclad gets -X/-0, where X is your life total.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/31.png" num="101">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>15/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autumn Rain Tashigi</name>
+			<text>Noncreature, non-Equipment spells cost {1} more to cast. 
+When Tashigi enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/32.png" num="6">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iguin</name>
+			<text>Ward—Discard a card
+Flying
+Whenever a creature becomes the target of a spell or ability you control, you may choose one —
+• That creature has power and toughness 1/1 until end of turn.
+• You may pay life equal to that creature&apos;s power. If you do, put that many +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/33.png" num="53">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Cookie</name>
+			<text>Click — Tap an untapped artifact or creature you control: Add {C}. 
+{5}, {T}, Sacrifice this artifact: You gain 7 life. Draw a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/34.png" num="107">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Turkor the Ungrateful</name>
+			<text>Haste 
+When Turkor enters, you gain X life.
+Whenever you gain life,</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/35.png" num="94">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demonhead Mobster Kingpin</name>
+			<text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
+Flying
+When Demonhead Mobster Kingpin enters, you draw two cards and you gain 2 life. Each opponent discards a card and loses 2 life.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/36.png" num="45">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plantera</name>
+			<text>Trample, reach
+Whenever Planterra enters or attacks, you may create a token that&apos;s a copy of target land you control.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/37.png" num="92">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mammon, the Tower</name>
+			<text>Whenever Mammon enters or attacks, choose one—
+• Create five tapped Treasure tokens.
+• Mammon deals 5 damage to any target.
+• Discard your hand, then draw five cards.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/38.png" num="73">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon God</type>
+				<maintype>Creature</maintype>
+				<manacost>8R</manacost>
+				<cmc>9</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Your Grandma</name>
+			<text>{T}, Tap an untapped creature, artifact, or land you control: Add one mana of any color.
+Exhaust — {2}{G}, {T}: Create a Food token. Put a +1/+1 counter on this creature. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/39.png" num="96">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Elder</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horror</name>
+			<text>More Mutation —When Horror enters, you get two rad counters. (At the beginning of your first main phase, for each rad, mill a card. For each nonland card milled this way, you lose 1 life and a rad.)
+Radiation Beam — When Horror attacks, you may exile a card in your graveyard put there from anywhere this turn. Create a copy of it. You may cast the copy. When you do, each player gets rad counters equal to its mana value.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/40.png" num="52">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steroids</name>
+			<text>Inaccurate — Steroids must attack each combat. 
+Dual Wielding — If an ability of an Equipment or Aura you control triggers, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/41.png" num="93">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yung Venuz</name>
+			<text>Fire Faster — Haste
+Pop Pop! — Whenever you cast a Equipment spell or cast a spell that targets, you may discard a card. When you do, copy that spell. You may choose new targets for it.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/42.png" num="80">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Bard God</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loop</name>
+			<text>Each player may shuffle their hand and graveyard into their library, then draw seven cards. Each player who did may put a permanent card from their hand onto the battlefield. 
+Exile Loop.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/43.png" num="33">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rebel</name>
+			<text>Can Spawn Allies — When this creature enters, create X 2/2 black Mutant tokens with decayed. You lose X life. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Portals Heal — Whenever a land you control enters, up to one target creature gains lifelink until end of turn.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/44.png" num="57">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kaho Reinol</name>
+			<text>Lands you control have spirited. (When that permanent enters, you may activate one of its activated abilities without paying its cost. Costs include {T}. Timing restrictions still apply.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/45.png" num="90">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alex Fierro, Child of Loki</name>
+			<text>You have Alex enter the battlefield as a copy of another creature you control, except she&apos;s named Alex Fierro, Child of Loki and has his other abilities.
+Menace
+When Alex deals combat damage to an opponent, you may exile her, then return him to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/46.png" num="22">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Shapeshifter Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Poneglyph</name>
+			<text>{T}: Add {C} for each card type among cards in your graveyard. 
+{3}, {T}: Mill three cards. You may return a card milled this way to your hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/47.png" num="113">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Donquixote Doflamingo</name>
+			<text>Flying, deathtouch
+When Doflamingo enters, gain control of up to one target nonland permanent you don&apos;t control. It&apos;s owner draws two cards, then discards a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/48.png" num="99">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infinite Hyperdeath</name>
+			<text>Destroy all creatures.
+Channel — {1}{B}{B}, Discard this card: Destroy target creature.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/49.png" num="55">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BBB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Kingsoul</name>
+			<text>When the Kingsoul enters, return target card from your graveyard to your hand.
+Lands you control have &quot;{T}: Add {C}{C}.&quot;</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/50.png" num="110">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Hollow Knight</name>
+			<text>Ward {2}
+Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Lifelink
+When the Hollow Knight enters, exile another target nonland permanent until it leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/51.png" num="13">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Riptide</name>
+			<text>Whenever equipped creature attacks, choose one. If it&apos;s a Hero, choose both instead.
+• Pen — Equipped creature can&apos;t be blocked this turn. 
+• Sword — Journey two times. (Exile the top two cards of your library face up. Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)
+Equip {1}</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/52.png" num="115">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Lightning Thief</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Gain control of up to one target creature or artifact for as long as you control this Saga.
+II, III — Draw two cards. At the end of each combat this turn, if you didn&apos;t attack, discard a card.
+​</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/53.png" num="32">CARL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Percy Jackson, Son of the Sea</name>
+			<text>Waterbend {2}: Percy becomes a 2/2 Demigod Warrior. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Waterbend {4}: If Percy is a Warrior, he becomes a 4/4 Demigod Soldier with vigilance. 
+Waterbend {8}: If Percy is a Soldier, he becomes a 8/8 Demigod Hero with &quot;Whenever Percy attacks, untap all permanents you control.&quot;</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/54.png" num="34">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jason Grace, Hero of Olympus</name>
+			<text>Flash
+{1}, Sacrifice Jason: Choose one —
+• Target creature gains indestructible until end of turn.
+• Destroy target artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/55.png" num="14">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Henry Stickmin</name>
+			<text>Choose Your Own Adventure — If you would choose one or more modes, you may choose an additional mode. When you do, put a +1/+1 counter on Henry for each mode chosen. (Modal spells and abilities are indicated by • listed modes.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/56.png" num="3">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ash Ketchum</name>
+			<text>Ward {1}
+Whenever you cast a creature spell, journey. (Exile the top card of your library face up. Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)
+Non-Human creatures you control get +1/+1 and gain trample.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/57.png" num="82">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carmen Sandiego</name>
+			<text>Vigilance
+{T}: Target land you control is every basic land type until end of turn. 
+{2}, {T}: Carmen connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on her.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/58.png" num="24">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Spy</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lelouch vi Britannia // Command Geass</name>
+			<text>Lelouch enters prepared. (While he&apos;s prepared, you may cast a copy of his spell. Doing so unprepares him.)
+The first instant or sorcery spell you cast each turn costs {X} less to cast, where X is Lelouch&apos;s power.
+
+---
+
+You control target opponent during their next turn.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/59.png" num="31">CARL</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble Rebel // Sorcery</type>
+				<maintype>Creature</maintype>
+				<manacost>1U // 8B</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>C.C. the Witch</name>
+			<text>When C.C. enters, if she was cast, you may search your library for a card, put it into your hand, then shuffle.
+{2}{B}, Discard two cards: Return C.C. from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/60.png" num="44">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Stone Mask</name>
+			<text>Equipped creature gets +2/+0, has decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+When equipped creature dies, draw a card.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/61.png" num="117">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Delorean</name>
+			<text>Whenever the Delorean attacks, you get an additional upkeep step after this phase.
+{3}, {T}: Exile cards from the top of your library until you exile a nonland card. Put time counters on that card equal to it&apos;s mana value. If it doesn&apos;t have suspend, it gains suspend. (On your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. If it&apos;s a creature, it has haste.)
+Crew 3</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/62.png" num="108">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Master Sword</name>
+			<text>When the Master Sword enters, exile another target nonland permanent until it leaves the battlefield.
+Equipped creature gets +5/+5 and has protection from the exiled card&apos;s colors. (It can&apos;t be targeted, dealt damage by, enchanted, or equipped by anything of that color.)
+Equip {10}. This costs {X} less to activate, where X is that creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/63.png" num="112">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Peter and the Starcatchers</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 1/1 green Child creature token.
+II, III — Teach up to one target creature flying. (Put a flying counter on it. If it already has flying, put a +1/+1 counter on it instead.)
+​</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/64.png" num="16">CARL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sonic the Hedgehog</name>
+			<text>Haste
+When Sonic dies, create a tapped Treasure token. 
+Boast—{1}{R}: Exile the top card of your library. You may play it until the end of your next turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/65.png" num="76">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Hedgehog Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Battlefield</name>
+			<text>This land enters tapped.
+When this land enters, contest the top card of your library. (Exile it, then create a battle token with two defense that returns it to your hand on defeat. Choose an opponent to defend it.)
+{T}: Add {C}.
+{2}, {T}: If you&apos;ve defeated a Battle this turn, contest the top card of your library.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/66.png" num="121">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mammoth Mogul</name>
+			<text>When Mammoth Mogul enters, create a tapped Treasure token.
+Whenever you cast a spell with mana value 4 or greater, you may choose one that hasn&apos;t been chosen yet —
+• Draw a card.
+• Create a 3/3 green Elephant creature token.
+• Destroy target artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/67.png" num="91">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elephant Wizard Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GLaDOS</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifacts you control.)
+You may look at the top card of your library at any time.
+You may play cards from the top of your library.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/68.png" num="29">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All Might, One for All</name>
+			<text>Whenever All Might attacks or blocks, choose one that hasn&apos;t been chosen yet—
+• You gain 7 life. 
+• Mill four cards. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+• Distribute four +1/+1 counters and a flying counter among other creatures you control
+• Destroy up to one target nonland permanent. Sacrifice All Might.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/69.png" num="7">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Himiko Toga</name>
+			<text>Decayed, haste (She can&apos;t block. When she attacks, sacrifice her at the end of combat.)
+You may have Toga enter as a copy of a creature you control, except her name is Himiko Toga and she has decayed and haste.
+Escape—{3}{R}, Exile four cards from your graveyard (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/70.png" num="69">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seeker</name>
+			<text>Whenever you cast a spell, put a +1/+1 counter on Seeker if that spell&apos;s mana value is even and your choice of a first strike, lifelink, or flying counter on her if that spell&apos;s mana value is odd.
+As long as Seeker has four or more counters on her, you can&apos;t lose the game and your opponents can&apos;t win the game.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/71.png" num="20">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>REX</name>
+			<text>At the beginning of your first main phase, choose one or more—
+• Put a +1/+1 counter on target creature. You lose 1 life. 
+• Target player adds {B}{G}. You lose 2 life. 
+• Return target permanent card from your graveyard to your hand. You lose 3 life.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/72.png" num="104">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Part Where He Kills You</name>
+			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
+The Part Where He Kills You — The Part Where He Kills You deals X damage to any target. 
+&quot;Well, this is the part where I kill you.&quot;
+—Wheatley</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/73.png" num="74">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fragmentation</name>
+			<text>As a additional cost to cast this spell, sacrifice a creature. 
+Choose one —
+• Destroy target creature.
+• Target player draws two cards and loses 2 life.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/74.png" num="47">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Timber Hearth</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a card. If you do, create a Lander token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.)
+{T}: Add {C}.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/75.png" num="128">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blood is Fuel, Hell Is Full</name>
+			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/76.png" num="83">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crazy Dave</name>
+			<text>Ward {2}
+Trample
+Whenever Crazy Dave enters or attacks, proliferate. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/77.png" num="85">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monger</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kujiwaka Rise // Navigate</name>
+			<text>Whenever another creature you control enters, you gain 1 life. Then prepare Rise if this is the second time this ability has resolved this turn.
+
+---
+
+Copy target triggered ability you control of a non-Performer source. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/78.png" num="15">CARL</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Performer Detective // Instant</type>
+				<maintype>Creature</maintype>
+				<manacost>1W // W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jumbo Josh</name>
+			<text>Trample
+Other creatures you control have base power and toughness 4/4 and are green in addition to their other colors.
+{2}, Discard this card: Search your library for a card that could produce green mana, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/79.png" num="89">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Gorilla Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fateful Descent</name>
+			<text>Mill three cards. When you do, you may return up to one target land card or card with mana value 4 or greater from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/80.png" num="88">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dive</name>
+			<text>Surveil 1.
+You may play an additional land this turn.
+You may play land cards from your graveyard this turn.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/81.png" num="87">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>A Moment, Fractured</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {W}. 
+{2W}{2W}{2W}, {T}, Sacrifice this land: Exile target creature.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/82.png" num="123">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Proteus Shallows</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {U}.
+{2U}{2U}{2U}, {T}, Sacrifice this land: Create a 0/0 blue Leviathan creature and put a +1/+1 counter on it for each card in your graveyard. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/83.png" num="126">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Spire</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {R}.
+{2R}{2R}{2R}, {T}, Sacrifice this land: Untap target creature you control. After this phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/84.png" num="127">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>City 17</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {B}.
+{2B}{2B}{2B}, {T}, Sacrifice this land: You draw two cards and you lose 2 life.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/85.png" num="122">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Moon</name>
+			<text>{T}: Add {C}.
+{T}, Pay 1 life: Add {G}.
+{2G}{2G}{2G}, {T}, Sacrifice this land: Return target permanent card from your graveyard to your hand. If it&apos;s a nonland card with mana value 3 or less, create a token that&apos;s a copy of it.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/86.png" num="124">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Atsuko Akko Kagari</name>
+			<text>Whenever you cast an instant or sorcery spell, create a Treasure token. Akko deals 1 damage to you for each Treasure you&apos;ve created this turn. 
+{W}{U}{B}{R}{G}: Create The Shiny Arc, a legendary artifact Equipment token with &quot;Whenever equipped creature attacks, target instant or sorcery card in your graveyard gains flashback {0} until end of turn.&quot; and equip {4}. Attach it to Akko.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/87.png" num="60">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Vista</name>
+			<text>{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle your library.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/88.png" num="125">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Antares, Victoria Dallon</name>
+			<text>Flying, ward {1}
+You and other nonland permanents you you control have ward {1}.
+Spells you cast that target cost {1} less and abilities you activate that target cost {1} less to activate.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/89.png" num="8">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Map Token CARL</name>
+			<text>{T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/90.png" num="2">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Map</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Hoarder&apos;s Instincts</name>
+			<text>You may discard up to two cards.
+Create a Junk token for each card you&apos;ve discarded this turn. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/91.png" num="70">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Giorno Giovanna</name>
+			<text>Lifelink, menace
+At the beginning of your end step, manifest the top card of your library. Put X +1/+1 counters on it, where X is the amount of life you&apos;ve gained this turn. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/92.png" num="100">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leo Valdez, Hero of Olympus</name>
+			<text>When Leo enters, look at the top four cards of your library. You may reveal a nonland card with an activated ability from among them and put it into your hand. Put the rest on the bottom of your library at random.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/93.png" num="71">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Artificer Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Argo II</name>
+			<text>Flying, double strike, vigilance
+{2}, {T}: Journey twice. (Exile the top two cards of your library face up. Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)
+Crew 4</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/94.png" num="106">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reboot</name>
+			<text>Choose one —
+• Counter target noncreature spell.
+• Return target instant, sorcery, or artifact card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/95.png" num="35">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hazel Levesque, Hero of Olympus</name>
+			<text>Whenever Hazel attacks, you may exile a creature or artifact card from your graveyard. If you do, create a Treasure token and put a +1/+1 counter on her. 
+Sacrifice two artifacts: Put a card exiled with Hazel into your hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/96.png" num="51">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oracle&apos;s Visions</name>
+			<text>Each player mills two cards.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/97.png" num="105">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reyna Ramírez-Arellano</name>
+			<text>Vigilance
+When Reyna enters, create a1/1 white Hero creature token. 
+Battalion — Whenever Reyna and at least two other creatures attack, if it&apos;s not an extra combat, you may untap all tokens you control. After this phase, there is an additional combat phase.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/98.png" num="18">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Praetor Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Annabeth Chase, Hero of Olympus</name>
+			<text>Whenever a card is put into your hand from anywhere, put a +1/+1 counter on Annabeth. (This includes drawing.)
+{T}: Add {C} equal to Annabeth&apos;s power. You can&apos;t spend this mana to cast spells that aren&apos;t artifacts, Demigods, or Heroes.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/99.png" num="23">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Hero Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tattletale, Lisa Wilbourn</name>
+			<text>Flash
+When Tattletale enters, each player reveals their hand. For each player, you may choose a nonland card revealed this way and shuffle it into their library. Then that player draws a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/100.png" num="40">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grue, Brian Laborn</name>
+			<text>If a creature or artifact you don&apos;t control entering would cause an ability of that permanent to trigger, counter that ability unless its controller pays life equal to Grue&apos;s power.
+Power-up — {X}{B}{B}: Grue connives X. Activate only as a sorcery. (Activate each power-up ability only once. Reduce it&apos;s cost by his mana cost if he entered this turn.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/101.png" num="50">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skitter, Taylor Herbert</name>
+			<text>At the beginning of your end step, if a player was dealt combat damage this turn, you may draw a card. If you do, you lose 1 life.
+Power-up — {4}{B}: Create two 1/1 black green Insect creature tokens with flying. Put a +1/+1 counter on Skitter. (Activate each power-up ability once once. Reduce its cost by her mana cost if she entered this turn.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/102.png" num="58">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Don Quixote of La Mancha</name>
+			<text>During combat, Don Quixote gets -2/-0 unless he&apos;s modified. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/103.png" num="66">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bitch, Rachel Lindt</name>
+			<text>Other creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)
+Power-up — {3}{R}{R}: You may put a creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step unless it&apos;s a Dog or Wolf. Put a +1/+1 counter on Bitch. Activate only as a sorcery. (Activate each power-up ability only once. Reduce it&apos;s cost by her mana cost if she entered this turn.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/104.png" num="63">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Villain</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Descend into Pharloom</name>
+			<text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/105.png" num="26">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suppress Dissent</name>
+			<text>Counter target spell.
+Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/106.png" num="39">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Abyss</name>
+			<text>This land enters tapped.
+{T}: Add {B}. 
+{B}, {T}, Sacrifice the Abyss: The next spell you cast this turn gains delve. When you cast that spell, you lose life equal to it&apos;s mana value. (Each card you exile from your graveyard while casting this spell pays for {1}.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/107.png" num="120">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gunplay</name>
+			<text>When this enchantment enters, it deals 2 damage to any target.
+If a source you control would deal noncombat damage to a permanent or player, it deals that much damage plus 1</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/108.png" num="68">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Faithless Wheeling</name>
+			<text>Draw two cards, then discard two cards.
+Create a tapped Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/109.png" num="67">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vin, Mistborn</name>
+			<text>Flying, vigilance
+Vin has the non-equip activated and triggered abilities of each artifact you control.
+Whenever Vin dies, if she dealt combat damage to a player this turn, return her to the battlefield.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/110.png" num="41">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zaheer, Winds of Change</name>
+			<text>Flying
+Whenever Zaheer attacks, you may discard a card. If you do, reveal cards from the top of your library until you reveal a nonland card. Airbend that card, then shuffle. (Exile it. While it&apos;s exiled, you may cast it for 2 rather than its mana cost.) 
+Whenever you cast a spell from anywhere other then your hand, Zaheer deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/111.png" num="81">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gather the Red Lotus</name>
+			<text>Airbend target creature card in your graveyard. (Exile it. While it&apos;s exiled, its owner may cast it for {2} rather than its mana cost.)
+Escape {3}{B}{B}, Exile four other cards from your graveyard (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/112.png" num="48">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mako and Bolin</name>
+			<text>Creatures you control with mana abilities have firebending 2. (Whenever that creature attacks, add {R}{R}. This mana lasts until end of combat.)
+{2}{R}{G}: Earthbend 2. Activate only during your turn. (To earthbend 2, target land you control becomes a 0/0 creature with haste that&apos;s still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/113.png" num="102">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier Ally</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splendid Speckled Mosscap</name>
+			<text>When Mosscap enters, look at the top four cards of your library. You may reveal a land or multicolored card from among them and put it into your hand, then shuffle.
+You may spend mana as though it were mana of any color.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/114.png" num="116">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avatar&apos;s Will</name>
+			<text>Choose one—
+• Airbend target nonland permanent you control. (Exile it. While it&apos;s exiled, its owner may cast it for {2} rather than its mana cost.)
+• Airbend target nonland permanent card with mana value 3 or less in your graveyard.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/115.png" num="9">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emmet Brickowski</name>
+			<text>Master Builder — Other artifacts you control have modular 1. (They enter with a +1/+1 counter on them. When they die, you may put its +1/+1 counters on target artifact creature you control.)
+{T}: Add {C}. You can&apos;t spend this mana to cast nonartifact spells. </text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/116.png" num="12">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Constanze von Braunschbank</name>
+			<text>Whenever you cast a noncreature spell, create a 1/1 Construct artifact creature token or sacrifice an artifact to create a 3/3 Drone Vehicle artifact creature token with flying, decayed, and crew 2. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/117.png" num="25">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diana Cavendish</name>
+			<text>Prowess
+{T}: Add {1}
+{T}: Draw a card, then discard a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/118.png" num="27">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Seven Words of Arcturus</name>
+			<text>Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Draw a card. 
+Whenever another card leaves your graveyard, you may pay {U}. If you do, return this card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/119.png" num="37">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deku, Izuku Midoriya</name>
+			<text>Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+Vigilance
+Whenever Deku deals 4 or more damage, draw a card to a single permanent or player.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/120.png" num="86">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Batgirl, Cassandra Cain</name>
+			<text>As long as Batgirl is attacking, she has first strike and deathtouch.
+When Batgirl enters, target opponent reveals their hand. You may exile a nonland card from it until she leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/121.png" num="97">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spoiler, Stephanie Brown</name>
+			<text>Whenever you discard one or more cards, put that many +1/+1 counters on Spoiler. 
+Boast—Discard a card: Mill cards equal to Spoiler&apos;s power. You may play a card milled this way until end of turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/122.png" num="77">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Austin Powers, Man of Mystery</name>
+			<text>First strike, haster</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/123.png" num="61">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Groovy Human Spy</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snow Miser</name>
+			<text>Menace 
+Whenever Snow Miser attacks, choose up to one other target creature. If you control it, create a 1/1 token that&apos;s a copy of it, except it&apos;s a nonlegendary Elemental. If you don&apos;t, tap it and put a stun counter on it if it doesn&apos;t have any. It loses all abilities until it untaps.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/124.png" num="38">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royalty&apos;s Will</name>
+			<text>Discard your hand, then draw three cards. 
+Harmonize {4}{R}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/125.png" num="75">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Time Stands Still</name>
+			<text>Target creature you control gains haste and trample until end of turn. It deals damage equal to its power to any target. Sacrifice it at the beginning of the next end step.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/126.png" num="2">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abyssal Trespass</name>
+			<text>Create a 6/6 blue Leviathan creature token with hexproof. 
+If you would draw a card from a empty library, you may instead cast this spell from your graveyard without paying it&apos;s mana cost.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/127.png" num="1">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>FILL IN The Planetarium</name>
+			<text></text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/128.png" num="119">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Visor Blast</name>
+			<text>Choose one—
+• Visor Blast deals 1 damage to each creature you don&apos;t control. 
+• Visor Blast deals X damage to target creature, where X is the number of creatures on the battlefield plus one.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/CARL-files/img/129.png" num="79">CARL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

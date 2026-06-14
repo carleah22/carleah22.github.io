@@ -1,0 +1,1289 @@
+﻿[
+    {
+        "card_name": "Autumn Rain Tashigi",
+        "number": 6,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Abyssal Trespass",
+        "number": 1,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "The Saw Arlong",
+        "number": 42,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Time Stands Still",
+        "number": 2,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Ash Ketchum",
+        "number": 82,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "All Might, One for All",
+        "number": 7,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Alex Fierro, Child of Loki",
+        "number": 22,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Agott",
+        "number": 43,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Atsuko Akko Kagari",
+        "number": 60,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Blood is Fuel, Hell Is Full",
+        "number": 83,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Antares, Victoria Dallon",
+        "number": 8,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Annabeth Chase, Hero of Olympus",
+        "number": 23,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "C.C. the Witch",
+        "number": 44,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Austin Powers, Man of Mystery",
+        "number": 61,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Carrot",
+        "number": 84,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Avatar's Will",
+        "number": 9,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Carmen Sandiego",
+        "number": 24,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Demonhead Mobster Kingpin",
+        "number": 45,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Baby 5, Living Weapon",
+        "number": 62,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Crazy Dave",
+        "number": 85,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Bushid\u014d",
+        "number": 10,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Constanze von Braunschbank",
+        "number": 25,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Doctor Evil",
+        "number": 46,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Bitch, Rachel Lindt",
+        "number": 63,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Deku, Izuku Midoriya",
+        "number": 86,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Coco",
+        "number": 11,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Descend into Pharloom",
+        "number": 26,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Fragmentation",
+        "number": 47,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Chell",
+        "number": 64,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Dive",
+        "number": 87,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Emmet Brickowski",
+        "number": 12,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Diana Cavendish",
+        "number": 27,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Gather the Red Lotus",
+        "number": 48,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Diable Jambe",
+        "number": 65,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Fateful Descent",
+        "number": 88,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "The Hollow Knight",
+        "number": 13,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Dora the Explorer",
+        "number": 28,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Gru, Despicable",
+        "number": 49,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Don Quixote of La Mancha",
+        "number": 66,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Jumbo Josh",
+        "number": 89,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Jason Grace, Hero of Olympus",
+        "number": 14,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "GLaDOS",
+        "number": 29,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Grue, Brian Laborn",
+        "number": 50,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Faithless Wheeling",
+        "number": 67,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Kaho Reinol",
+        "number": 90,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Kujiwaka Rise",
+        "number": 15,
+        "shape": "adventure",
+        "set": "CARL",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "K.C. Cooper, Undercover",
+        "number": 30,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Hazel Levesque, Hero of Olympus",
+        "number": 51,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Gunplay",
+        "number": 68,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Mammoth Mogul",
+        "number": 91,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Peter and the Starcatchers",
+        "number": 16,
+        "shape": "saga",
+        "set": "CARL",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Lelouch vi Britannia",
+        "number": 31,
+        "shape": "adventure",
+        "set": "CARL",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Horror",
+        "number": 52,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Himiko Toga",
+        "number": 69,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Plantera",
+        "number": 92,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Problem Sleuth",
+        "number": 17,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "The Lightning Thief",
+        "number": 32,
+        "shape": "saga",
+        "set": "CARL",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Iguin",
+        "number": 53,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Hoarder's Instincts",
+        "number": 70,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Steroids",
+        "number": 93,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Reyna Ram\u00edrez-Arellano",
+        "number": 18,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Loop",
+        "number": 33,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Impel Down Breakout",
+        "number": 54,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Leo Valdez, Hero of Olympus",
+        "number": 71,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Turkor the Ungrateful",
+        "number": 94,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "The Second Summer of Love",
+        "number": 19,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Percy Jackson, Son of the Sea",
+        "number": 34,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Infinite Hyperdeath",
+        "number": 55,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Madeline",
+        "number": 72,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Twin Sunflower",
+        "number": 95,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Seeker",
+        "number": 20,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Reboot",
+        "number": 35,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Magellan",
+        "number": 56,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Mammon, the Tower",
+        "number": 73,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Your Grandma",
+        "number": 96,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Wanderer in a Strange Land",
+        "number": 21,
+        "shape": "planeswalker",
+        "set": "CARL",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Richeh",
+        "number": 36,
+        "shape": "adventure",
+        "set": "CARL",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Rebel",
+        "number": 57,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "The Part Where He Kills You",
+        "number": 74,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Seven Words of Arcturus",
+        "number": 37,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Skitter, Taylor Herbert",
+        "number": 58,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Royalty's Will",
+        "number": 75,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Snow Miser",
+        "number": 38,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "Void Fiend",
+        "number": 59,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Sonic the Hedgehog",
+        "number": 76,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Suppress Dissent",
+        "number": 39,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spoiler, Stephanie Brown",
+        "number": 77,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tattletale, Lisa Wilbourn",
+        "number": 40,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tetia",
+        "number": 78,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vin, Mistborn",
+        "number": 41,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Visor Blast",
+        "number": 79,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yung Venuz",
+        "number": 80,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Zaheer, Winds of Change",
+        "number": 81,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Qifrey",
+        "number": 103,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Doctor Edgar Zomboss",
+        "number": 98,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "The Ironclad",
+        "number": 101,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Mako and Bolin",
+        "number": 102,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Donquixote Doflamingo",
+        "number": 99,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Oracle's Visions",
+        "number": 105,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Batgirl, Cassandra Cain",
+        "number": 97,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "REX",
+        "number": 104,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Giorno Giovanna",
+        "number": 100,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Henry Stickmin",
+        "number": 3,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Kyubey",
+        "number": 4,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Mithrix, King of Nothing",
+        "number": 5,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "The Argo II",
+        "number": 106,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "The Cookie",
+        "number": 107,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "The Delorean",
+        "number": 108,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Golden Idol",
+        "number": 109,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "The Kingsoul",
+        "number": 110,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Knowing Skull",
+        "number": 111,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "The Master Sword",
+        "number": 112,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Poneglyph",
+        "number": 113,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Portal Gun",
+        "number": 114,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Riptide",
+        "number": 115,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Splendid Speckled Mosscap",
+        "number": 116,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "The Stone Mask",
+        "number": 117,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "The Transistor",
+        "number": 118,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "A Moment, Fractured",
+        "number": 123,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Proteus Shallows",
+        "number": 126,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "The Abyss",
+        "number": 120,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "The Spire",
+        "number": 127,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "The Moon",
+        "number": 124,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "City 17",
+        "number": 122,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "FILL IN The Planetarium",
+        "number": 119,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Battlefield",
+        "number": 121,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Prismatic Vista",
+        "number": 125,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Timber Hearth",
+        "number": 128,
+        "shape": "normal",
+        "set": "CARL",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Map Token",
+        "number": 2,
+        "shape": "token",
+        "set": "CARL",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Minion",
+        "number": 1,
+        "shape": "token",
+        "set": "CARL",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

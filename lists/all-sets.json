@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "CARL",
+            "set_name": "Crossmod Cube",
+            "formats": ""
+        },
+        {
             "set_code": "NUT",
             "set_name": "Warp Zone: Nuclear Throne",
             "formats": ""
