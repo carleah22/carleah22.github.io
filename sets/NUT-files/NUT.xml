@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>NUT</name>
+			<longname>Warp Zone: Nuclear Throne</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-14</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Fish</name>
+			<text>Roll — Fish can&apos;t be blocked if you have less then three cards in hand.
+More Ammo — Whenever Fish deals combat damage to a player, draw a card, then discard a card unless you have three or less cards in hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/0.png" num="4">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fish Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steroids</name>
+			<text>Inaccurate — Steroids must attack each combat. 
+Dual Wielding — Each Equipment attached to Steroids has an additional instance of each of its abilities.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/1.png" num="15">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rogue</name>
+			<text>Vigilance
+Heat — Whenever Rogue attacks, target opponent creates a 1/1 tapped white Human Soldier creature token.
+Blast Armor — When Rogue dies, she deals 2 damage to each creature. Until end of turn, if a creature dealt damage this way would die, exile it.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/2.png" num="2">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>7/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horror</name>
+			<text>Deathtouch
+More Mutation —When Horror enters, you get two rad counters.
+Radiation Beam — When Horror attacks, you may exile a card in your graveyard put there from anywhere this turn. Create a copy of it. You may cast the copy. When you do, each player gets rad counters equal to its mana value.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/3.png" num="7">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eyes</name>
+			<text>Vigilance
+Sees In The Dark — Whenever you attack or are attacked, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Telekinesis — {T}: Target creature attacks this turn if able. When it deals combat damage to a player this turn, draw two cards, then discard a card.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/4.png" num="3">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Eye Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kings and Queens of Wasteland</name>
+			<text>Whenever a player is dealt damage, they get that many rad counters.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/5.png" num="18">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radiation NUT</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/NUT-files/img/6.png" num="1">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>RADIATION</type>
+				<maintype>RADIATION</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human Soldier NUT</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/NUT-files/img/7.png" num="2">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Rebel</name>
+			<text>Can Spawn Allies — When this creature enters, create twice X 2/2 black Mutant Survivor tokens with decayed. You lose X life. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Portals Heal — Whenever a land you control enters, up to one target creature gains lifelink until end of turn.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/8.png" num="9">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Robot</name>
+			<text>Ward {2}
+Better Tech — Artifact spells you cast with mana value 4 or greater cost {2} less to cast.
+Eat Weapons — {2}, {T}, Sacrifice an artifact: Put X +1/+1 counters on Robot, then draw X cards, where X is that artifact&apos;s mana value. If that artifact was an Equipment, exile it from your graveyard. You may cast a copy of it.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/9.png" num="20">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yung Venuz</name>
+			<text>Fire Faster — Haste
+Pop Pop! — Whenever you cast a Equipment spell or cast a spell during combat, you may discard a card. When you do, copy that spell. You may choose new targets for it.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/10.png" num="12">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Bard God</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal</name>
+			<text>Flash
+More Health — Crystal enters with a shield counter. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+Shield — Unblocked creatures attacking you have no abilities.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/11.png" num="1">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chicken</name>
+			<text>Trample
+Throw Weapon — Whenever Chicken attacks, if she&apos;s equipped, she deals 2 damage to each opponent. 
+Hard to Kill — When Chicken dies, if she&apos;s dealt damage to a player this turn, create a token copy of her.</text>
+			<set rarity="uncommon" picurl="https://carleah22.github.io/sets/NUT-files/img/12.png" num="10">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plant</name>
+			<text>Faster — You may play an additional land as long as Plant entered this turn.
+Snare — {3}: Put a +1/+1 counter on Plant. It must be blocked this turn if able.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/13.png" num="14">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mutant Survivor NUT</name>
+			<text>Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/NUT-files/img/14.png" num="3">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Mutant Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Melting</name>
+			<text>Whenever Melting enters or attacks, mill two cards.
+Corpse Explosion —Whenever Melting attacks, you may exile a creature card from a graveyard. If you do, each player loses 2 life.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/15.png" num="8">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Epic Encounter</name>
+			<text>You may reveal a legendary card you own from outside the game and put it into your hand. Exile Epic Encounter.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/16.png" num="13">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Nuclear Throne</name>
+			<text>Indestructible
+When the Nuclear Throne enters or attacks, it deals 10 damage to up to one nonplayer target. Each player gets rad counters equal to the excess damage dealt this way. 
+At the beginning of your upkeep, if there are twenty or more cards in graveyards, the Nuclear Throne becomes a creature.</text>
+			<set rarity="mythic" picurl="https://carleah22.github.io/sets/NUT-files/img/17.png" num="19">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ultra Mutation</name>
+			<text>Whenever a creature you control enters, you may exile an Aura card you control from outside the game. You may cast it without paying its mana cost if it has mana value equal to or less than that creature. Otherwise, put it into your hand.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/18.png" num="16">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Loop</name>
+			<text>Each player may shuffle their hand and graveyard into their library, then draw seven cards. Each player who did may put a permanent card from their hand onto the battlefield. 
+Exile Loop.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/19.png" num="5">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/NUT-files/img/20.png" num="0">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Throne II</name>
+			<text>When Throne II enters, it deals 4 damage to each other creature.
+Whenever a permanent card is put into a graveyard, each player gets a rad counter.
+{20}: Shuffle your hand and graveyard into your library, then draw seven cards. This ability costs {1} less to activate for each card in your graveyard. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/21.png" num="21">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lil Hunter</name>
+			<text>Whenever a opponent casts a spell, put +1/+1 counters on Lil Hunter equal to that spell&apos;s mana value unless that spell&apos;s controller has Lil Hunter deal that much damage to them.
+When Lil Hunter dies, he deals damage to each opponent equal to his power.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/22.png" num="11">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain</name>
+			<text>Vigilance, first strike
+When Captain enters, exile up to one target creature.
+Whenever Captain deals combat damage to a player, create three 1/1 white Human Soldier tokens.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/23.png" num="17">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4WU</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Big Dog</name>
+			<text>Big Dog enters tapped with three stun counters on him.
+Whenever Big Dog attacks, create two 2/2 tapped and attacking red Missile artifact creature tokens. 
+Whenever a nontoken creature dies, untap Big Dog.</text>
+			<set rarity="rare" picurl="https://carleah22.github.io/sets/NUT-files/img/24.png" num="6">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Dog Dog Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Throne II</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/NUT-files/img/25.png" num="0">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yung Cuz</name>
+			<text>Arsenal — Whenever a nontoken Equipment you control enters, create a token copy of it, except the token loses all equip abilities and has &quot;Equip Gamer {1}&quot;.
+Cry — Whenever a creature blocks Yung Cuz, put two stun counters on that creature. That creature loses all abilities until it untaps.</text>
+			<set rarity="special" picurl="https://carleah22.github.io/sets/NUT-files/img/26.png" num="22">NUT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Alien Gamer God</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

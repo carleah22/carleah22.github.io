@@ -4,6 +4,7 @@
         "number": 1,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "11"
     },
     {
@@ -11,6 +12,7 @@
         "number": 3,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "4"
     },
     {
@@ -18,20 +20,23 @@
         "number": 6,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "24"
     },
     {
-        "card_name": "Chicken",
-        "number": 10,
+        "card_name": "Lil Hunter",
+        "number": 11,
         "shape": "normal",
         "set": "NUT",
-        "position": "12"
+        "rotated": false,
+        "position": "22"
     },
     {
         "card_name": "Epic Encounter",
         "number": 13,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "16"
     },
     {
@@ -39,6 +44,7 @@
         "number": 2,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "2"
     },
     {
@@ -46,6 +52,7 @@
         "number": 4,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "0"
     },
     {
@@ -53,20 +60,23 @@
         "number": 7,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "3"
     },
     {
-        "card_name": "Lil Hunter",
-        "number": 11,
+        "card_name": "Yung Venuz",
+        "number": 12,
         "shape": "normal",
         "set": "NUT",
-        "position": "22"
+        "rotated": false,
+        "position": "10"
     },
     {
         "card_name": "Plant",
         "number": 14,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "13"
     },
     {
@@ -77,6 +87,7 @@
         "number": 5,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "19"
     },
     {
@@ -84,33 +95,42 @@
         "number": 8,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "15"
     },
     {
-        "card_name": "Yung Venuz",
-        "number": 12,
+        "card_name": "Chicken",
+        "number": 10,
         "shape": "normal",
         "set": "NUT",
-        "position": "10"
+        "rotated": false,
+        "position": "12"
     },
     {
         "card_name": "Steroids",
         "number": 15,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "1"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Yung Cuz",
+        "number": 22,
+        "shape": "normal",
+        "set": "NUT",
+        "rotated": false,
+        "position": "26"
     },
     {
         "card_name": "Rebel",
         "number": 9,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "8"
     },
     {
@@ -121,6 +141,7 @@
         "number": 16,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "18"
     },
     {
@@ -141,6 +162,7 @@
         "number": 17,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "23"
     },
     {
@@ -175,6 +197,7 @@
         "number": 18,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "5"
     },
     {
@@ -207,13 +230,23 @@
         "number": 19,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "17"
+    },
+    {
+        "card_name": "Robot",
+        "number": 20,
+        "shape": "normal",
+        "set": "NUT",
+        "rotated": false,
+        "position": "9"
     },
     {
         "card_name": "",
         "number": 0,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "20"
     },
     {
@@ -221,14 +254,8 @@
         "number": 0,
         "shape": "normal",
         "set": "NUT",
+        "rotated": false,
         "position": "25"
-    },
-    {
-        "card_name": "Robot",
-        "number": 20,
-        "shape": "normal",
-        "set": "NUT",
-        "position": "9"
     },
     {
         "card_name": "e"
@@ -251,6 +278,7 @@
         "number": 1,
         "shape": "token",
         "set": "NUT",
+        "rotated": false,
         "position": "6"
     },
     {
@@ -258,6 +286,7 @@
         "number": 2,
         "shape": "token",
         "set": "NUT",
+        "rotated": false,
         "position": "7"
     },
     {
@@ -265,6 +294,7 @@
         "number": 3,
         "shape": "token",
         "set": "NUT",
+        "rotated": false,
         "position": "14"
     },
     {

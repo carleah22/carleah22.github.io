@@ -1,0 +1,742 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ROR</name>
+			<longname>Warp Zone: Risk of Rain 2</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-06-14</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Commando</name>
+			<text>Double strike</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/0.png" num="3">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loader</name>
+			<text>Dash {2}{R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it&apos;s returned from the battlefield to its owner&apos;s hand at the beginning of the next end step.)
+Loader has first strike as long as she entered this turn.
+Whenever Loader deals combat damage to a player, until your next turn, double all damage that would be dealt to that player, and spells you cast that target them cost {2} less.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/1.png" num="14">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rigger</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Engineer</name>
+			<text>When this creature enters, create a 2/2 Construct artifact creature token.
+Whenever Engineer becomes the target of a spell you control, for each creature token you control, you may copy that spell. The copy targets that token.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/2.png" num="5">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bandit</name>
+			<text>Whenever another creature dies, Bandit connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)
+{6}: Bandit can&apos;t be blocked this turn. This costs {1} less for each nonland card put into a graveyard this turn.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/3.png" num="8">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mercenary</name>
+			<text>Flash
+When Mercenary enters, choose up to one:
+• Counter target noncreature spell.
+• One or two target permanents phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/4.png" num="6">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Void Fiend</name>
+			<text>Deathtouch
+Exhaust — {13}{B}{B}: Put three +1/+1 counters on Void Fiend. Each opponent loses 3 life, sacrifices a nonland permanent, and discards a card. If your life total is less than your starting life total, this ability costs {X} less to activate, where X is the difference. (Activate each exhaust ability only once.)</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/5.png" num="11">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Huntress</name>
+			<text>Reach
+When Huntress enters, she deals 1 damage to any target.
+Whenever Huntress becomes blocked, she deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/6.png" num="13">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain</name>
+			<text>Vigilance
+Whenever Captain enters or attacks, reveal the top four cards of your library. You may exile a artifact card from among them. If it has mana value equal to or less then the number of nonland permanents you control, you may put it onto the battlefield. Otherwise, put it into your hand. Put the rest on the bottom in a random order.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/7.png" num="2">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Railgunner</name>
+			<text>Whenever you cast a spell, put a +1/+1 counter on Railgunner. 
+Whenever Railgunner attacks, put a stun counter on her. 
+Exhaust — {10}: Railgunner deals 5 damage to any target. This ability costs {1} less to activate for each +1/+1 counter on Railgunner. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/8.png" num="15">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acrid</name>
+			<text>Whenever Acrid deals combat damage to a player, you gain 3 life and you draw a card. 
+Whenever a creature you control becomes blocked, the defending player gets two poison counters. (A player with ten or more poison counters loses the game.)</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/9.png" num="16">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>REX</name>
+			<text>At the beginning of your first main phase, choose one or more—
+• Put a +1/+1 counter on target creature. You lose 1 life. 
+• Target player adds {B}{G}. You lose 2 life. 
+• Return target permanent card from your graveyard to your hand. You lose 3 life.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/10.png" num="20">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MUL-T</name>
+			<text>MUL-T enters with X +1/+1 counters on it.
+{1}: Untap MUL-T.
+{2}: MUL-T gains menace until end of turn.
+{3}: Put a +1/+1 counter on MUL-T.
+{4}: Draw a card if MUL-T dealt damage to a player this turn.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/11.png" num="21">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>X</manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CHEF</name>
+			<text>When CHEF enters, create a Food token.
+{T}, Sacrifice a nonland permanent: You draw a card and you lose 1 life. 
+{T}, Exile three cards from your graveyard: Search your library for a card that shares a type with all of the exiled cards, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/12.png" num="9">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>False Son</name>
+			<text>Vigilance, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever you gain life, put that many +1/+1 counters on False Son.
+{T}, Remove X counters from False Son: He deals X damage to any number of target opponents. Add X mana in any combination of {R}, {G}, and {W}. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/13.png" num="18">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artificer</name>
+			<text>When Artificer enters, choose one:
+• Ion Sur‍ge — Put a flying counter on each creature you control and a +1/+1 counter on Artificer.
+• Flamethrower — Artificer deals damage equal to her power to any target.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/14.png" num="17">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Operator</name>
+			<text>Whenever an artifact you control deals combat damage to a player, you may exile it. Return it to the battlefield at the beginning of your next main phase. When you do, add {C}{C}. This mana can&apos;t be spent to cast a nonartifact spell. 
+{1}{U}, {T}: Target artifact you control gains flying and becomes a 3/3 creature in addition to its other types until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/15.png" num="7">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drifter</name>
+			<text>Whenever Drifter enters or attacks, if you don&apos;t control a Junk token, create one. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
+Permanent spells you cast from exile cost {2} less. When you cast a permanent spell this way, it gains haste and &quot;At the beginning of your end step, sacrifice this.&quot;</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/16.png" num="12">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monger</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kur-skan, the Heretic</name>
+			<text>Haunt (When this creature dies, exile it haunting target creature.)
+When Kur-skan enters or deals combat damage to a player, you draw a card and you lose 1 life.
+Whenever the haunted creature deals combat damage to a opponent, its controller sacrifices it. If they do, return Kur-skan to the battlefield.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/17.png" num="10">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mithrix, King of Nothing</name>
+			<text></text>
+			<set rarity="masterpiece" picurl="https://carleah22.github.io/sets/ROR-files/img/18.png" num="1">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cyclops Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>5CC</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Providence, the Bulwark</name>
+			<text></text>
+			<set rarity="masterpiece" picurl="https://carleah22.github.io/sets/ROR-files/img/19.png" num="2">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cyclops Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>5GW</manacost>
+				<cmc>7</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Providence, the Bulwark</name>
+			<text>Lifelink
+When Providence enters, if he was cast, search your library for a non-Cyclops creature card, reveal it, put it into your hand, then shuffle. If you do, destroy all other creatures with power greater than the revealed card.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/20.png" num="19">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cyclops Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5GW</manacost>
+				<cmc>7</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seeker</name>
+			<text>Whenever you cast a spell, put a +1/+1 counter on Seeker if that spell&apos;s mana value is even and your choice of a first strike, lifelink, or flying counter on her if that spell&apos;s mana value is odd.
+As long as Seeker has four or more counters on her, you can&apos;t lose the game and your opponents can&apos;t win the game.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/21.png" num="4">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sol Ring</name>
+			<text>{T}: Add {C}{C}.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/22.png" num="22">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mithrix, King of Nothing</name>
+			<text>When Mithrix enters, for each opponent, exile target permanent that player controls until Mithrix leaves the battlefield.
+Whenever Mithrix attacks, the defending player exiles a permanent they control until Mithrix leaves the battlefield. 
+Mithrix has the activated and triggered abilities of each card exiled with him.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/23.png" num="1">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cyclops Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>5CC</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/24.png" num="28">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/25.png" num="24">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/26.png" num="23">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Vista</name>
+			<text>{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle your library.</text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/27.png" num="27">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/28.png" num="29">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/29.png" num="25">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/30.png" num="26">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/31.png" num="30">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/32.png" num="31">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/33.png" num="32">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/34.png" num="33">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/35.png" num="34">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/36.png" num="35">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/37.png" num="36">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/38.png" num="37">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Vista</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/39.png" num="38">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/40.png" num="39">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/41.png" num="40">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://carleah22.github.io/sets/ROR-files/img/42.png" num="41">ROR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

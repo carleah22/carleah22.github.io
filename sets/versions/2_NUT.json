@@ -1,6 +1,6 @@
 ﻿{
     "name": "Warp Zone: Nuclear Throne",
-    "formats": "Carlegacy",
+    "formats": "",
     "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -11,7 +11,7 @@
         {
             "card_name": "Fish",
             "color": "U",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Fish Mutant",
             "number": 4,
             "color_identity": "U",
@@ -31,7 +31,7 @@
         {
             "card_name": "Steroids",
             "color": "G",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Mutant",
             "number": 15,
             "color_identity": "G",
@@ -51,7 +51,7 @@
         {
             "card_name": "Rogue",
             "color": "W",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Rebel",
             "number": 2,
             "color_identity": "W",
@@ -71,7 +71,7 @@
         {
             "card_name": "Horror",
             "color": "B",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Creature \u2014 Horror",
             "number": 7,
             "color_identity": "B",
@@ -91,14 +91,14 @@
         {
             "card_name": "Eyes",
             "color": "U",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Eye Mutant",
             "number": 3,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Vigilance\n[i]Sees In The Dark[/i] \u2014 Whenever you attack or are attacked, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n[i]Telekinesis \u2014[/i] {T}: Target creature attacks this turn if able. When it deals combat damage to a player this turn, draw two cards, then discard a card.",
             "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "NUT",
@@ -111,7 +111,7 @@
         {
             "card_name": "Kings and Queens of Wasteland",
             "color": "BRG",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 18,
             "color_identity": "BRG",
@@ -171,7 +171,7 @@
         {
             "card_name": "Rebel",
             "color": "B",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Mutant Rogue",
             "number": 9,
             "color_identity": "B",
@@ -191,7 +191,7 @@
         {
             "card_name": "Robot",
             "color": "",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Artifact Creature \u2014 Robot",
             "number": 20,
             "color_identity": "C",
@@ -211,7 +211,7 @@
         {
             "card_name": "Yung Venuz",
             "color": "R",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Alien Bard God",
             "number": 12,
             "color_identity": "R",
@@ -231,7 +231,7 @@
         {
             "card_name": "Crystal",
             "color": "W",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Mutant Wall",
             "number": 1,
             "color_identity": "W",
@@ -251,7 +251,7 @@
         {
             "card_name": "Chicken",
             "color": "R",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Bird Mutant",
             "number": 10,
             "color_identity": "R",
@@ -271,7 +271,7 @@
         {
             "card_name": "Plant",
             "color": "G",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Mutant Plant",
             "number": 14,
             "color_identity": "G",
@@ -311,7 +311,7 @@
         {
             "card_name": "Melting",
             "color": "B",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Zombie Mutant",
             "number": 8,
             "color_identity": "B",
@@ -331,7 +331,7 @@
         {
             "card_name": "Epic Encounter",
             "color": "G",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 13,
             "color_identity": "G",
@@ -371,7 +371,7 @@
         {
             "card_name": "Ultra Mutation",
             "color": "G",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 16,
             "color_identity": "G",
@@ -391,7 +391,7 @@
         {
             "card_name": "Loop",
             "color": "U",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 5,
             "color_identity": "U",
@@ -431,7 +431,7 @@
         {
             "card_name": "Throne II",
             "color": "",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Construct",
             "number": 21,
             "color_identity": "C",
@@ -451,7 +451,7 @@
         {
             "card_name": "Lil Hunter",
             "color": "R",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Mutant Rogue",
             "number": 11,
             "color_identity": "R",
@@ -471,14 +471,14 @@
         {
             "card_name": "Captain",
             "color": "WU",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Soldier",
             "number": 17,
             "color_identity": "WU",
-            "cost": "{3}{W}{U}",
-            "rules_text": "Ward {3}\nCards can't leave exile.\nCards can't leave graveyards.\nCards can't leave libraries outside of draw steps.",
+            "cost": "{4}{W}{U}",
+            "rules_text": "Vigilance, first strike\nWhen Captain enters, exile up to one target creature.\nWhenever Captain deals combat damage to a player, create three 1/1 white Human Soldier tokens.",
             "flavor_text": "[i][/i]",
-            "pt": "4/4",
+            "pt": "4/5",
             "special_text": "",
             "shape": "normal",
             "set": "NUT",
@@ -491,12 +491,12 @@
         {
             "card_name": "Big Dog",
             "color": "B",
-            "rarity": "common",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Mutant Dog Dog Dog",
             "number": 6,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Big Dog enters tapped with three stun counters on him.\nWhenever a nontoken creature dies, untap Big Dog. \nWhenever Big Dog attacks, create a 2/2 tapped and attacking red Missile artifact creature token for each creature that died this turn.",
+            "rules_text": "Big Dog enters tapped with three stun counters on him.\nWhenever Big Dog attacks, create two 2/2 tapped and attacking red Missile artifact creature tokens. \nWhenever a nontoken creature dies, untap Big Dog.",
             "flavor_text": "[i][/i]",
             "pt": "6/4",
             "special_text": "",
@@ -526,6 +526,26 @@
             "artist": "Regulus DI",
             "alias": "",
             "position": "25",
+            "notes": ""
+        },
+        {
+            "card_name": "Yung Cuz",
+            "color": "U",
+            "rarity": "special",
+            "type": "Legendary Creature \u2014 Alien Gamer God",
+            "number": 22,
+            "color_identity": "U",
+            "cost": "{2}{U}",
+            "rules_text": "[i]Arsenal \u2014 [/i]Whenever a nontoken Equipment you control enters, create a token copy of it, except the token loses all equip abilities and has \u201cEquip Gamer {1}\u201d.[i]\nCry [/i]\u2014 Whenever a creature blocks Yung Cuz, put two stun counters on that creature. That creature loses all abilities until it untaps.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "NUT",
+            "loyalty": "",
+            "artist": "kreisid",
+            "alias": "",
+            "position": "26",
             "notes": ""
         }
     ]

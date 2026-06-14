@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "Mithrix, King of Nothing",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{5}{C}{C}",
 			"type": "Legendary Creature — Cyclops Artificer",
 			"collector_number": "1",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Providence, the Bulwark",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{5}{G}{W}",
 			"type": "Legendary Creature — Cyclops Artificer",
 			"collector_number": "2",
@@ -434,7 +434,7 @@
 
 [rare(1)]
 [uncommon(3)]
-[common(7)]
+[common(6)]
 	8 Commando
 	8 Loader
 	8 Engineer
@@ -453,6 +453,44 @@
 	8 Operator
 	8 Drifter
 	8 Kur-skan, the Heretic
+	8 Providence, the Bulwark
+	8 Seeker
+	8 Sol Ring
+	8 Mithrix, King of Nothing
+	8 Prismatic Vista
+	8 Forest
+	8 Forest
+	8 Island
+	8 Island
+	8 Mountain
+	8 Mountain
+	8 Plains
+	8 Plains
+	8 Prismatic Vista
+	8 Swamp
+	8 Swamp
+	8 Wastes
+[common | masterpiece(1)]
+	8 Commando
+	8 Loader
+	8 Engineer
+	8 Bandit
+	8 Mercenary
+	8 Void Fiend
+	8 Huntress
+	8 Captain
+	8 Railgunner
+	8 Acrid
+	8 REX
+	8 MUL-T
+	8 CHEF
+	8 False Son
+	8 Artificer
+	8 Operator
+	8 Drifter
+	8 Kur-skan, the Heretic
+	3 Mithrix, King of Nothing
+	3 Providence, the Bulwark
 	8 Providence, the Bulwark
 	8 Seeker
 	8 Sol Ring

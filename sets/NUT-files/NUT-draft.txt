@@ -1,0 +1,351 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Fish",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Fish Mutant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/0.png"
+			}
+		},
+		{
+			"name": "Steroids",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/1.png"
+			}
+		},
+		{
+			"name": "Rogue",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/2.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/3.png"
+			}
+		},
+		{
+			"name": "Eyes",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Eye Mutant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/4.png"
+			}
+		},
+		{
+			"name": "Kings and Queens of Wasteland",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/5.png"
+			}
+		},
+		{
+			"name": "Radiation",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "RADIATION",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/6.png"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/7.png"
+			}
+		},
+		{
+			"name": "Rebel",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Legendary Creature — Mutant Rogue",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/8.png"
+			}
+		},
+		{
+			"name": "Robot",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/9.png"
+			}
+		},
+		{
+			"name": "Yung Venuz",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Alien Bard God",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/10.png"
+			}
+		},
+		{
+			"name": "Crystal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Mutant Wall",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/11.png"
+			}
+		},
+		{
+			"name": "Chicken",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Bird Mutant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/12.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Mutant Plant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/13.png"
+			}
+		},
+		{
+			"name": "Mutant Survivor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Mutant Survivor",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/14.png"
+			}
+		},
+		{
+			"name": "Melting",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Zombie Mutant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/15.png"
+			}
+		},
+		{
+			"name": "Epic Encounter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/16.png"
+			}
+		},
+		{
+			"name": "The Nuclear Throne",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/17.png"
+			}
+		},
+		{
+			"name": "Ultra Mutation",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/18.png"
+			}
+		},
+		{
+			"name": "Loop",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/19.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/20.png"
+			}
+		},
+		{
+			"name": "Throne II",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/21.png"
+			}
+		},
+		{
+			"name": "Lil Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Mutant Rogue",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/22.png"
+			}
+		},
+		{
+			"name": "Captain",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/23.png"
+			}
+		},
+		{
+			"name": "Big Dog",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Mutant Dog Dog Dog",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/24.png"
+			}
+		},
+		{
+			"name": "Throne II",
+			"rarity": "common",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/25.png"
+			}
+		},
+		{
+			"name": "Yung Cuz",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Alien Gamer God",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://carleah22.github.io/sets/NUT-files/img/26.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Fish
+	2 Steroids
+	2 Rogue
+	2 Horror
+	2 Eyes
+	2 Kings and Queens of Wasteland
+	2 Rebel
+	2 Robot
+	2 Yung Venuz
+	2 Crystal
+	2 Plant
+	2 Melting
+	2 Epic Encounter
+	1 The Nuclear Throne
+	2 Ultra Mutation
+	2 Loop
+	2 Throne II
+	2 Lil Hunter
+	2 Captain
+	2 Big Dog
+[uncommon(3)]
+	4 Chicken
+[common(6)]
+	8 
+	8 Throne II
+[common | masterpiece(1)]
+	8 
+	8 Throne II
+[foil(1)]
+	2 Fish
+	2 Steroids
+	2 Rogue
+	2 Horror
+	2 Eyes
+	2 Kings and Queens of Wasteland
+	2 Rebel
+	2 Robot
+	2 Yung Venuz
+	2 Crystal
+	6 Chicken
+	2 Plant
+	2 Melting
+	2 Epic Encounter
+	1 The Nuclear Throne
+	2 Ultra Mutation
+	2 Loop
+	12 
+	2 Throne II
+	2 Lil Hunter
+	2 Captain
+	2 Big Dog
+	12 Throne II
+[wildcard(1)]
+	7 Fish
+	7 Steroids
+	7 Rogue
+	7 Horror
+	7 Eyes
+	7 Kings and Queens of Wasteland
+	7 Rebel
+	7 Robot
+	7 Yung Venuz
+	7 Crystal
+	15 Chicken
+	7 Plant
+	7 Melting
+	7 Epic Encounter
+	4 The Nuclear Throne
+	7 Ultra Mutation
+	7 Loop
+	6 
+	7 Throne II
+	7 Lil Hunter
+	7 Captain
+	7 Big Dog
+	6 Throne II

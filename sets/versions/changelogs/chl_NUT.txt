@@ -1,4 +1,72 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Yung Cuz added.
+
+
+Fish
+
+Steroids
+
+Rogue
+
+Horror
+
+Eyes
+pt: 1/1 => 2/2
+
+Kings and Queens of Wasteland
+
+Rebel
+
+Robot
+
+Yung Venuz
+
+Crystal
+
+Chicken
+
+Plant
+
+Melting
+
+Epic Encounter
+
+Ultra Mutation
+
+Loop
+
+
+type: Legendary Creature — Fish Mutant => 
+cost: {1}{U} => 
+rules_text: [i]Roll — [/i]Fish can't be blocked if you have less then three cards in hand.
+[i]More Ammo — [/i]Whenever Fish deals combat damage to a player, draw a card, then discard a card unless you have three or less cards in hand. => 
+pt: 2/1 => 
+
+Throne II
+
+Lil Hunter
+
+Captain
+cost: {3}{W}{U} => {4}{W}{U}
+rules_text: Ward {3}
+Cards can't leave exile.
+Cards can't leave graveyards.
+Cards can't leave libraries outside of draw steps. => Vigilance, first strike
+When Captain enters, exile up to one target creature.
+Whenever Captain deals combat damage to a player, create three 1/1 white Human Soldier tokens.
+pt: 4/4 => 4/5
+
+Big Dog
+rules_text: Big Dog enters tapped with three stun counters on him.
+Whenever a nontoken creature dies, untap Big Dog. 
+Whenever Big Dog attacks, create a 2/2 tapped and attacking red Missile artifact creature token for each creature that died this turn. => Big Dog enters tapped with three stun counters on him.
+Whenever Big Dog attacks, create two 2/2 tapped and attacking red Missile artifact creature tokens. 
+Whenever a nontoken creature dies, untap Big Dog.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

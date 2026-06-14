@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/NUT-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/NUT-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>NUT visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,103 +181,119 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/NUT-files/logo.png" />
-	<img class="preload-hidden" src="/sets/NUT-files/icon.png" />
-		<img class="preload-hidden" src="/sets/ROR-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/NUT-files/logo.png" />
+	<img class="preload-hidden" src="../sets/NUT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/ROR-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="NUT"><img src="/sets/NUT-files/icon.png">Warp Zone: Nuclear Throne</a>
+		<a class="set-bar" href="../previews/NUT"><img src="../sets/NUT-files/icon.png">Warp Zone: Nuclear Throne</a>
 	
-		<a class="set-bar inactive" href="ROR"><img src="/sets/ROR-files/icon.png">Warp Zone: Risk of Rain 2</a>
+		<a class="set-bar inactive" href="../previews/ROR"><img src="../sets/ROR-files/icon.png">Warp Zone: Risk of Rain 2</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/NUT-files/logo.png">
+		<img class="logo" src="../sets/NUT-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\11.png" id="11" data-flag="@X" onclick="openSidebar('11',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\4.png" id="4" data-flag="@X" onclick="openSidebar('4',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\24.png" id="24" data-flag="@X" onclick="openSidebar('24',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\12.png" id="12" data-flag="@X" onclick="openSidebar('12',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\16.png" id="16" data-flag="@X" onclick="openSidebar('16',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\2.png" id="2" data-flag="@X" onclick="openSidebar('2',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\0.png" id="0" data-flag="@X" onclick="openSidebar('0',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\3.png" id="3" data-flag="@X" onclick="openSidebar('3',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\22.png" id="22" data-flag="@X" onclick="openSidebar('22',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\13.png" id="13" data-flag="@X" onclick="openSidebar('13',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\19.png" id="19" data-flag="@X" onclick="openSidebar('19',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\15.png" id="15" data-flag="@X" onclick="openSidebar('15',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\10.png" id="10" data-flag="@X" onclick="openSidebar('10',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\1.png" id="1" data-flag="@X" onclick="openSidebar('1',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\8.png" id="8" data-flag="@X" onclick="openSidebar('8',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\18.png" id="18" data-flag="@X" onclick="openSidebar('18',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\NUT-files\img\11.png" id="NUT_11" data-flag="@X" onclick="openSidebar('NUT_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\4.png" id="NUT_4" data-flag="@X" onclick="openSidebar('NUT_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\24.png" id="NUT_24" data-flag="@X" onclick="openSidebar('NUT_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\22.png" id="NUT_22" data-flag="@X" onclick="openSidebar('NUT_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\16.png" id="NUT_16" data-flag="@X" onclick="openSidebar('NUT_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\2.png" id="NUT_2" data-flag="@X" onclick="openSidebar('NUT_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\0.png" id="NUT_0" data-flag="@X" onclick="openSidebar('NUT_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\3.png" id="NUT_3" data-flag="@X" onclick="openSidebar('NUT_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\10.png" id="NUT_10" data-flag="@X" onclick="openSidebar('NUT_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\13.png" id="NUT_13" data-flag="@X" onclick="openSidebar('NUT_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\19.png" id="NUT_19" data-flag="@X" onclick="openSidebar('NUT_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\15.png" id="NUT_15" data-flag="@X" onclick="openSidebar('NUT_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\12.png" id="NUT_12" data-flag="@X" onclick="openSidebar('NUT_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\1.png" id="NUT_1" data-flag="@X" onclick="openSidebar('NUT_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\26.png" id="NUT_26" data-flag="@X" onclick="openSidebar('NUT_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\8.png" id="NUT_8" data-flag="@X" onclick="openSidebar('NUT_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\18.png" id="NUT_18" data-flag="@X" onclick="openSidebar('NUT_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\23.png" id="23" data-flag="@X" onclick="openSidebar('23',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\5.png" id="5" data-flag="@X" onclick="openSidebar('5',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\23.png" id="NUT_23" data-flag="@X" onclick="openSidebar('NUT_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\5.png" id="NUT_5" data-flag="@X" onclick="openSidebar('NUT_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\17.png" id="17" data-flag="@X" onclick="openSidebar('17',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\20.png" id="20" data-flag="@X" onclick="openSidebar('20',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\25.png" id="25" data-flag="@X" onclick="openSidebar('25',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\9.png" id="9" data-flag="@X" onclick="openSidebar('9',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\17.png" id="NUT_17" data-flag="@X" onclick="openSidebar('NUT_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\9.png" id="NUT_9" data-flag="@X" onclick="openSidebar('NUT_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\20.png" id="NUT_20" data-flag="@X" onclick="openSidebar('NUT_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\25.png" id="NUT_25" data-flag="@X" onclick="openSidebar('NUT_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\6.png" id="6" data-flag="@X" onclick="openSidebar('6',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\7.png" id="7" data-flag="@X" onclick="openSidebar('7',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\NUT-files\img\14.png" id="14" data-flag="@X" onclick="openSidebar('14',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\6.png" id="NUT_6" data-flag="@X" onclick="openSidebar('NUT_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\7.png" id="NUT_7" data-flag="@X" onclick="openSidebar('NUT_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\NUT-files\img\14.png" id="NUT_14" data-flag="@X" onclick="openSidebar('NUT_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="NUT_e" data-flag="@E" onclick="openSidebar('NUT_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="NUT_er" data-flag="@E" onclick="openSidebar('NUT_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -283,19 +306,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -330,13 +445,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -490,16 +608,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -509,7 +627,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>
