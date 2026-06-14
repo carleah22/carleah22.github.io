@@ -1,4 +1,19 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Exult added.
+War added.
+
+
+Diana Cavendish
+rules_text: Prowess
+{T}: Add {1}
+{T}: Draw a card, then discard a card. => Vigilance
+Instant, sorcery, and Wizard spells you cast cost {1} less to cast. 
+{T}: Draw a card, then discard a card.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
